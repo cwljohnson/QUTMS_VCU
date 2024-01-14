@@ -1,6 +1,6 @@
 # QUTMS_VCU
 
-This repo contains the source code for QUT Motorsport's Vehicle Control Unit (VCU), and was developed by Calvin Johnson. This was a multi-purpose board, able to act as the key vehicle controller, whilst also as a generic sensor board, digitializing analogue sensor outputs and broadcasting them over CAN, and also able to switch 12V loads.
+This repo contains the firmware developed for QUT Motorsport's Vehicle Control Unit (VCU). This was a multi-purpose board, able to act as the key vehicle controller, whilst also as a generic sensor board, digitializing analogue sensor outputs and broadcasting them over CAN, and also able to switch 12V loads.
 
 The VCU utilized a STM32F207 based microcontroller.
 
