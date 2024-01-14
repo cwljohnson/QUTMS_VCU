@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "state_machine.h": "c",
+        "heartbeat.h": "c",
+        "task_spi.h": "c",
+        "task_state_machine.h": "c",
+        "task_sensor.h": "c",
+        "task_can.h": "c"
+    }
+}
